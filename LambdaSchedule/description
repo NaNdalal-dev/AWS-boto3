@@ -1,0 +1,9 @@
+Description:
+
+start_instance_8AM:
+This program helps to start an instance from Mon-Fri at 8AM
+
+stop_instance_6PM:
+This program helps to stop an instance from Mon-Fri at 6PM
+
+Create CloudWatch Event Rule to trigger the above functions.
