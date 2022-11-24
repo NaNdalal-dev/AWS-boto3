@@ -1,0 +1,4 @@
+Description:
+Your task is start the instance with from (MON-FRI) at 9AM IST and stop it at 6PM IST (MON-FRI) using lambda functions and cloudwatch rules.
+Note:
+Only Start/Stop the instances with Tag Name=linux1
